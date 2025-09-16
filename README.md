@@ -5,8 +5,7 @@
 
 * I am a Full Stack developer from 🇨🇴 Colombia.
 * Founder of Tommy Shelby (DISCORD BOT).
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DeveloperTI0001&theme=shadow-red&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DeveloperTI00011&theme=dark)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperTI0001&hide_progress=false)
 
