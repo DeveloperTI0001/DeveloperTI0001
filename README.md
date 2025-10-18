@@ -5,9 +5,9 @@
 * I am a Full Stack developer from 🇨🇴 Colombia.
 * Founder of Tommy Shelby (DISCORD BOT).
 
-* Contacto:
-  - Número: 3114589229
-  - Correo: martin5435412@gmail.com
+* Contact:
+  - Number: 3114589229
+  - Email: martin5435412@gmail.com
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=DeveloperTI0001&theme=dark&hide_border=true&border_radius=8.1&locale=es&short_numbers=true&card_width=1280)](https://git.io/streak-stats)
 
