@@ -3,7 +3,7 @@
 </div>
 
 ###
-# https://panel.voriamtechnologies.com/
+# https://voriamtechnologies.com/
 <p align="left">I am a Full Stack developer from 🇨🇴 Colombia.<br><br>Founder of Tommy Shelby (Discord Bot).<br><br>* Contact:<br>- Number: *3114589229*<br>- Email: *martin5435412@gmail.com*</p>
 
 ###
