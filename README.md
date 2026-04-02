@@ -1,40 +1,66 @@
 <div align="center">
-  <img height="200" src="https://github.com/DeveloperTI0001/DeveloperTI0001/blob/main/banner.png"  />
+  <img width="100%" src="https://github.com/DeveloperTI0001/DeveloperTI0001/blob/main/banner.png?raw=true" alt="Banner DeveloperTI0001" />
 </div>
 
-###
-# https://voriamtechnologies.com/
-<p align="left">I am a Full Stack developer from 🇨🇴 Colombia.<br><br>Founder of Tommy Shelby (Discord Bot).<br><br>* Contact:<br>- Number: *3114589229*<br>- Email: *martin5435412@gmail.com*</p>
-
-###
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeveloperTI0001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DeveloperTI0001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <h3>¡Hola, soy Carlos! 👋</h3>
+  <p><em>Desarrollador Full Stack 🇨🇴 | Creador de soluciones digitales</em></p>
 </div>
 
-###
+---
 
-<br clear="both">
+### 🚀 Sobre mí y Voriam Technologies
+
+Soy un desarrollador Full Stack apasionado por el código y **Fundador de [Voriam Technologies](https://voriamtechnologies.com/)**. 
+
+**¿Qué hacemos en Voriam?**
+Básicamente, convertimos ideas en productos reales. Somos un equipo enfocado en crear aplicaciones web a medida, automatizar procesos y ofrecer **Hosting de alto rendimiento** para que tus proyectos vuelen. Menos palabras y más código que funcione rápido y escale sin problemas.
+
+- 🤖 **Mi proyecto estrella**: Creador de **Tommy Shelby**, un Bot de Discord súper completo para la gestión de comunidades.
+- 💻 **Mi stack principal**: Me muevo como pez en el agua en el Backend (FastAPI, Python, Laravel) y también le meto al Frontend y despliegues.
+
+---
+
+### 📊 Mis Estadísticas
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="83" alt="javascript logo"  />
-  <img width="41" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="83" alt="typescript logo"  />
-  <img width="41" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="83" alt="react logo"  />
-  <img width="41" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="83" alt="jest logo"  />
-  <img width="41" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="83" alt="bootstrap logo"  />
-  <img width="41" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="83" alt="fastapi logo"  />
-  <img width="41" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="83" alt="html5 logo"  />
-  <img width="41" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="83" alt="npm logo"  />
-  <img width="41" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="83" alt="python logo"  />
+  <a href="https://github.com/DeveloperTI0001">
+    <img src="https://stats.hedystia.com/api?username=DeveloperTi0001" alt="Estadísticas de GitHub de Carlos" />
+  </a>
 </div>
 
-###
+<br>
+
+### 🛠️ Tecnologías que uso
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript" title="JavaScript" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript" title="TypeScript" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python" title="Python" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" alt="fastapi" title="FastAPI" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react" title="React" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5" title="HTML5" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap" title="Bootstrap" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="50" alt="jest" title="Jest" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="npm" title="npm" />
+</div>
+
+<br>
+
+### 📫 ¡Hablemos!
+
+¿Tienes un proyecto en mente o necesitas buen hosting? Escríbeme:
+
+- 🌐 **Web**: [voriamtechnologies.com](https://voriamtechnologies.com/)
+- 📧 **Email**: developerti0001@gmail.com
+- 📱 **WhatsApp**: +57 311 458 9229
